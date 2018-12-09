@@ -25,7 +25,8 @@ Este projeto é a minha solução para o [desafio de Python da iClinic](https://
 ### Pré-requisitos
 
 - [Python 3+](https://www.python.org)
-- [pip](https://pypi.org/project/pip/)
+- [pip](https://pypi.org/project/pip)
+- [Virtualenv](https://virtualenv.pypa.io)
 - [Flask](http://flask.pocoo.org)
 - [Flask-RESTful](https://flask-restful.readthedocs.io)
 - [pytest](https://docs.pytest.org)
@@ -44,6 +45,17 @@ Este projeto é a minha solução para o [desafio de Python da iClinic](https://
 8. Tudo pronto! :-)
 
 ### Instruções (códigos)
+
+> Para executar os códigos abaixo, é necessário ter o "pip" e o "virtualenv" instalados.
+
+```bash
+# Instalar o "pip3"
+$ sudo apt update
+$ sudo apt install python3-pip
+
+# Instalar o "virtualenv"
+$ [sudo] pip3 install virtualenv
+```
 
 ```bash
 # 1. e 2. não precisam de código
