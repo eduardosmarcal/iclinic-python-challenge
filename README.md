@@ -74,8 +74,8 @@ $ pip3 install flask Flask-RESTful pytest
 
 # 7. Mova os diretórios "src" e "tests" da raiz do repositório
 #    para dentro do diretório criado pelo ambiente virtual
-$ mv -R ../src ./
-$ mv -R ../tests ./
+$ mv ../src ./
+$ mv ../tests ./
 
 # 8. Tudo pronto!
 ```
