@@ -34,7 +34,7 @@ Este projeto é a minha solução para o [desafio de Python da iClinic](https://
 
 ### Instruções (informações)
 
-> A seguir estão as informações do que é necessário para executar o projeto, mas na próxima seção estão os códigos referentes a essas instruções.  
+> A seguir estão as informações do que é necessário para executar o projeto, mas na próxima seção estão os comandos referentes a essas instruções.  
 
 1. Clone ou faça download deste repositório
 2. Abra o **Terminal** e entre no diretório raiz deste repositório
@@ -45,9 +45,9 @@ Este projeto é a minha solução para o [desafio de Python da iClinic](https://
 7. Mova os diretórios **src** e **tests** da raiz do repositório para dentro do diretório criado pelo ambiente virtual
 8. Tudo pronto! :-)
 
-### Instruções (códigos)
+### Instruções (comandos)
 
-> Para executar os códigos abaixo, é necessário ter o "pip" e o "virtualenv" instalados.
+> Para executar os comandos abaixo, é necessário ter o "pip" e o "virtualenv" instalados.
 
 ```bash
 # Instalar o "pip3"
@@ -59,7 +59,7 @@ $ [sudo] pip3 install virtualenv
 ```
 
 ```bash
-# 1. e 2. não precisam de código
+# 1. e 2. não precisam de comandos
 
 # 3. Crie um ambiente virtual (vou chamá-lo de: "flask-restful-api")
 $ virtualenv -p python3 flask-restful-api
