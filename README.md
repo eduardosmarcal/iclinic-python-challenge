@@ -14,6 +14,7 @@ Este projeto é a minha solução para o [desafio de Python da iClinic](https://
 |    |--- flask_restful_api.py
 |--- tests
 |    |--- test_flask_restful_api.py
+|--- LICENSE
 |--- README.md
 ```
 
