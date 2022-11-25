@@ -111,5 +111,4 @@ Eduardo S. Marçal
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/eduardosmarcal)  
-[Twitter](https://twitter.com/eduardosmarcal_)
+[LinkedIn](https://linkedin.com/in/eduardosmarcal)
